@@ -179,7 +179,7 @@ Practical_2/
 
 3. **Link local repository and push:**
    ```bash
-   git remote add origin https://github.com/YOUR_GITHUB_USERNAME/student-task-manager-docker.git
+   git remote add origin https://github.com/ps636718/student-task-manager.git
    git branch -M main
    git push -u origin main
    ```

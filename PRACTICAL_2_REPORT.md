@@ -122,7 +122,7 @@ CMD ["node", "server.js"]
 
 1. Push code to GitHub:
    ```bash
-   git remote add origin https://github.com/pawansuman/student-task-manager.git
+   git remote add origin https://github.com/ps636718/student-task-manager.git
    git push -u origin main
    ```
 2. In Render dashboard:
