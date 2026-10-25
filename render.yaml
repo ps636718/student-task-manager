@@ -1,0 +1,12 @@
+# Render Blueprint - Dockerized Student Task Management Application
+# Student: Pawan Suman (BT24CSD054)
+# Practical 2: Dockerization and Cloud Deployment of a Node.js Web Application
+services:
+  - type: web
+    name: pawan-suman-taskmanager
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: PORT
+        value: 3000

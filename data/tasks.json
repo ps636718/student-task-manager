@@ -1,0 +1,62 @@
+[
+  {
+    "id": "task-5c059a87",
+    "title": "Docker Verification Task",
+    "description": "Testing REST API endpoint",
+    "category": "Labs",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-10-25",
+    "assignedTo": "Pawan Suman (BT24CSD054)",
+    "createdAt": "2026-10-25T17:51:39.330Z",
+    "updatedAt": "2026-10-25T17:51:39.330Z"
+  },
+  {
+    "id": "task-101",
+    "title": "Containerize Web App with Docker",
+    "description": "Write Dockerfile, build student-task-manager image and run on port 3000.",
+    "category": "Labs",
+    "priority": "High",
+    "status": "In Progress",
+    "dueDate": "2026-10-26",
+    "assignedTo": "Pawan Suman (BT24CSD054)",
+    "createdAt": "2026-10-23T17:47:01.280Z",
+    "updatedAt": "2026-10-25T17:47:01.280Z"
+  },
+  {
+    "id": "task-102",
+    "title": "Cloud Deployment on Render / AWS",
+    "description": "Push git repository to GitHub and trigger automatic Docker cloud deployment.",
+    "category": "Projects",
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-10-28",
+    "assignedTo": "Pawan Suman (BT24CSD054)",
+    "createdAt": "2026-10-24T17:47:01.280Z",
+    "updatedAt": "2026-10-25T17:47:01.280Z"
+  },
+  {
+    "id": "task-103",
+    "title": "Design Responsive Bootstrap 5 Dashboard",
+    "description": "Create modern UI with student badge, metrics counters, filter tabs, and CRUD modals.",
+    "category": "Assignments",
+    "priority": "Medium",
+    "status": "Completed",
+    "dueDate": "2026-10-25",
+    "assignedTo": "Pawan Suman (BT24CSD054)",
+    "createdAt": "2026-10-22T17:47:01.280Z",
+    "updatedAt": "2026-10-25T17:47:01.280Z"
+  },
+  {
+    "id": "task-104",
+    "title": "Operating Systems & Virtualization Quiz",
+    "description": "Review Docker containerization vs VMs, cgroups, namespaces, and image layers.",
+    "category": "Exams",
+    "priority": "Medium",
+    "status": "Pending",
+    "dueDate": "2026-11-02",
+    "assignedTo": "Pawan Suman (BT24CSD054)",
+    "createdAt": "2026-10-25T17:47:01.280Z",
+    "updatedAt": "2026-10-25T17:47:01.280Z"
+  }
+]

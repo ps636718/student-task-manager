@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  student-task-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: pawan-suman-taskmanager:latest
+    container_name: student-task-container
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
