@@ -36,18 +36,6 @@
     "updatedAt": "2026-10-25T17:47:01.280Z"
   },
   {
-    "id": "task-103",
-    "title": "Design Responsive Bootstrap 5 Dashboard",
-    "description": "Create modern UI with student badge, metrics counters, filter tabs, and CRUD modals.",
-    "category": "Assignments",
-    "priority": "Medium",
-    "status": "Completed",
-    "dueDate": "2026-10-25",
-    "assignedTo": "Pawan Suman (BT24CSD054)",
-    "createdAt": "2026-10-22T17:47:01.280Z",
-    "updatedAt": "2026-10-25T17:47:01.280Z"
-  },
-  {
     "id": "task-104",
     "title": "Operating Systems & Virtualization Quiz",
     "description": "Review Docker containerization vs VMs, cgroups, namespaces, and image layers.",
